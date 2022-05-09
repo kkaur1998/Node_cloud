@@ -1,0 +1,23 @@
+{
+  "name": "http_server",
+  "version": "1.0.0",
+  "description": "Http server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkaur1998/Node_cloud.git"
+  },
+  "keywords": [
+    "Kamaljeet",
+    "Kaur"
+  ],
+  "author": "Kamaljeet Kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkaur1998/Node_cloud/issues"
+  },
+  "homepage": "https://github.com/kkaur1998/Node_cloud#readme"
+}
