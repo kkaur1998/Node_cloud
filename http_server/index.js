@@ -6,6 +6,7 @@ const requestListener=function requestListener(req,res){
 }
 
 const server=http.createServer(requestListener);
-server.listen(port, host, ()=>{
-    console.log();(`server is running on port no: ${port}`)
+const port = 8080;
+server.listen(port, ()=>{
+    console.log(`server is running on port no: ${port}`)
 })
